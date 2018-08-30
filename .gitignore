@@ -331,6 +331,7 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
